@@ -7,16 +7,20 @@ visibility: public
 confidence: 0.9
 created: 2026-06-10
 updated: 2026-06-10
-summary: "새 스프링부트 프로젝트 생성 시 따르는 개인 표준: start.spring.io zip 생성, JDK 25+, YAML 설정, Group com / Artifact back, 최신 안정 버전, Web·JPA·Security·H2·DevTools 의존성, REST 기본, OSIV 끔. 코프링이면 Kotlin DSL + Kotlin 2.3.0+(JVM target 25), 프로필 dev(H2 파일)/test(H2 메모리), Security permitAll 스켈레톤."
+summary: "새 스프링부트 생성 표준: start.spring.io zip, JDK 25+, YAML, Group com/Artifact back, 최신 안정, Web·JPA·Security·H2·DevTools, REST, OSIV 끔. 코프링은 Kotlin DSL + 2.3.0+, dev(파일)/test(메모리) 프로필, permitAll 스켈레톤."
 edges:
   - type: supports
     target: pillar-work-foundation
+  - type: related_to
+    target: pattern-work-context-mode-build-redirect
+  - type: related_to
+    target: pattern-work-windows-git-bash
 tags: [spring-boot, java, kotlin, preference, project-setup]
 ---
 
 # 스프링부트 프로젝트 생성 취향
 
-새 스프링부트 프로젝트를 만들 때 따르는 표준 절차이자 기본값. 생성은 [start.spring.io](https://start.spring.io)에서 zip을 받아(`curl -d ... starter.zip`) 압축 해제한다 — wrapper/플러그인/버전이 정확히 보장됨.
+새 스프링부트 프로젝트를 만들 때 따르는 표준 절차이자 기본값. 생성은 [start.spring.io](https://start.spring.io)에서 zip을 받아(`curl -d ... starter.zip`) 압축 해제한다 — wrapper/플러그인/버전이 정확히 보장됨. Windows Git Bash에서 zip 해제는 [[pattern-work-windows-git-bash]] 참고 (tar 불가, unzip → `powershell Expand-Archive` 폴백). 빌드 검증은 [[pattern-work-context-mode-build-redirect]]대로 ctx_execute로.
 
 ## 프로젝트 메타데이터
 
