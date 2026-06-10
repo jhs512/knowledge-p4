@@ -44,6 +44,7 @@
 
 | id | 제목 | namespace | visibility | updated |
 |---|---|---|---|---|
+| [pattern-work-context-mode-build-redirect](../patterns/pattern-work-context-mode-build-redirect.md) | context-mode 훅의 빌드 명령 리다이렉트 | work | public | 2026-06-10 |
 
 ## hypothesis
 
