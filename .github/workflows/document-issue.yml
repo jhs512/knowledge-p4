@@ -6,7 +6,7 @@ on:
 
 jobs:
   document:
-    if: contains(github.event.issue.labels.*.name, 'Document')
+    if: contains(github.event.issue.labels.*.name, 'documentation')
     runs-on: ubuntu-latest
     concurrency:
       group: vault-document
