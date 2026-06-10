@@ -54,6 +54,12 @@
 
 | id | 제목 | namespace | visibility | updated |
 |---|---|---|---|---|
+| [fact-work-career-it-instructor](../facts/fact-work-career-it-instructor.md) | IT강사 직업에 대한 열정 | work | public | 2026-06-10 |
+| [fact-work-motivation-recognition](../facts/fact-work-motivation-recognition.md) | 기술 전파를 통한 인정욕구 충족 | work | public | 2026-06-10 |
+| [fact-work-value-earning-recognition](../facts/fact-work-value-earning-recognition.md) | 돈에 대한 가치관: 소유보다 많이 버는 것 | work | public | 2026-06-10 |
+| [fact-work-practice-meditation](../facts/fact-work-practice-meditation.md) | 명상 실천 | work | public | 2026-06-10 |
+| [fact-work-hobby-futsal](../facts/fact-work-hobby-futsal.md) | 풋살을 즐기는 취미 | work | public | 2026-06-10 |
+| [fact-work-food-preference](../facts/fact-work-food-preference.md) | 좋아하는 음식: 순대국밥·콩나물비빔밥 | work | public | 2026-06-10 |
 
 ## source
 
