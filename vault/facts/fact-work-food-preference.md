@@ -11,6 +11,8 @@ summary: "순대국밥과 콩나물비빔밥을 즐겨 먹음"
 edges:
   - type: related_to
     target: fact-work-hobby-futsal
+  - type: related_to
+    target: fact-work-food-preference-dubu-snack
 tags: ["음식", "라이프스타일"]
 ---
 

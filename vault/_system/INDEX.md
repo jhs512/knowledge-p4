@@ -62,6 +62,7 @@
 | [fact-work-practice-meditation](../facts/fact-work-practice-meditation.md) | 명상 실천 | work | public | 2026-06-10 |
 | [fact-work-hobby-futsal](../facts/fact-work-hobby-futsal.md) | 풋살을 즐기는 취미 | work | public | 2026-06-10 |
 | [fact-work-food-preference](../facts/fact-work-food-preference.md) | 좋아하는 음식: 순대국밥·콩나물비빔밥 | work | public | 2026-06-10 |
+| [fact-work-food-preference-dubu-snack](../facts/fact-work-food-preference-dubu-snack.md) | 좋아하는 간식: 두부과자 | work | public | 2026-06-10 |
 
 ## source
 
