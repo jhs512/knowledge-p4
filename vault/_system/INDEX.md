@@ -61,7 +61,7 @@
 | [fact-work-value-earning-recognition](../facts/fact-work-value-earning-recognition.md) | 돈에 대한 가치관: 소유보다 많이 버는 것 | work | public | 2026-06-10 |
 | [fact-work-practice-meditation](../facts/fact-work-practice-meditation.md) | 명상 실천 | work | public | 2026-06-10 |
 | [fact-work-hobby-futsal](../facts/fact-work-hobby-futsal.md) | 풋살을 즐기는 취미 | work | public | 2026-06-10 |
-| [fact-work-food-preference](../facts/fact-work-food-preference.md) | 좋아하는 음식: 순대국밥·콩나물비빔밥 | work | public | 2026-06-10 |
+| [fact-work-food-preference](../facts/fact-work-food-preference.md) | 좋아하는 음식: 순대국밥·콩나물비빔밥·청국장 | work | public | 2026-06-10 |
 
 ## source
 
