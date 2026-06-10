@@ -28,6 +28,7 @@
 
 | id | 제목 | namespace | visibility | updated |
 |---|---|---|---|---|
+| [playbook-work-springboot-init](../playbooks/playbook-work-springboot-init.md) | 스프링부트 프로젝트 생성 취향 | work | public | 2026-06-10 |
 
 ## task
 
