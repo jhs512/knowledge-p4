@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "convert-note": {
+      "source": "jhs512/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ib/convert-note/SKILL.md",
+      "computedHash": "b2482866ed75f937b0016d8a25763b161f81534057cddda0a2e13d36b266b281"
+    },
+    "init-vault": {
+      "source": "jhs512/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ib/init-vault/SKILL.md",
+      "computedHash": "f580c4efedf6d6877cd21595f378596017614fd0b2eebdf2d6615f945e6a44d6"
+    },
+    "organize-vault": {
+      "source": "jhs512/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ib/organize-vault/SKILL.md",
+      "computedHash": "0f461f03390a6c0d5ad27e73ad7be2a620a8e901be00d509a5ef50c535807239"
+    },
+    "query-vault": {
+      "source": "jhs512/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ib/query-vault/SKILL.md",
+      "computedHash": "e4f575c9b8e706ace31d1dbe37492b322ceae40ec423fee5e87ea4e787970acb"
+    },
+    "setup-ib": {
+      "source": "jhs512/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ib/setup-ib/SKILL.md",
+      "computedHash": "9826a86c99c1ab10d137fccafe79e99122d56936ead80f1ecb81d114b0a9c964"
+    },
+    "vault-health": {
+      "source": "jhs512/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ib/vault-health/SKILL.md",
+      "computedHash": "ab103a70c451a965ba8965d0fc7df462022b4a73059c10db83a9b31acf11057c"
+    }
+  }
+}
